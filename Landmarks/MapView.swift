@@ -2,7 +2,6 @@
 //  MapView.swift
 //  Landmarks
 //
-//  Created by 임휘도 on 3/21/24.
 //
 
 import SwiftUI
